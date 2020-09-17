@@ -18,7 +18,6 @@ import com.qualcomm.robotcore.hardware.Servo;
  * the configuration here, needing only a single instantiation inside your OpModes and avoid having to change configuration
  * in all OpModes when hardware is changed on robot.
  *
- * Use Android Studio to Copy this Class, and Paste it into your team's code folder with a new name.
  *
  */
 

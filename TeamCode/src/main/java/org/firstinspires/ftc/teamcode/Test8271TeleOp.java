@@ -21,7 +21,7 @@ import org.firstinspires.ftc.teamcode.ExampleCode.MyBotHardwareSetup;
  */
 
 @TeleOp(name="Example: Test8271TeleOp", group="Examples")  // @Autonomous(...) is the other common choice
-@Disabled
+//@Disabled
 public class Test8271TeleOp extends LinearOpMode {
 
     Bot8271HardwareSetup robot = new Bot8271HardwareSetup(); //set up remote to robot hardware configuration
